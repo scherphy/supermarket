@@ -6,5 +6,3 @@ class Item
 		@price = price
 	end
 end
-
-item = Item.new
