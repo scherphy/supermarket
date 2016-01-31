@@ -1,5 +1,4 @@
 class Cart
-	
 	def initialize
 		@items = []
 	end
